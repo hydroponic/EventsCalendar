@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737367004940",
+    "project_id": "graphite-dynamo-379123",
+    "storage_bucket": "graphite-dynamo-379123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737367004940:android:19efb62f1ed32e43f11b29",
+        "android_client_info": {
+          "package_name": "com.hydroponic.event_calender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737367004940-8hgt8jj50bhfntvtduqa79dj59o887k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVMPTuVjt7LMm-ZEn0kjS3nFJMBVfQ0xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737367004940-8hgt8jj50bhfntvtduqa79dj59o887k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
