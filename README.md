@@ -26,22 +26,7 @@
 
 <br><br>
 
-## How I approached
-<b>1.</b> First did the requirement analysis and use case diagram<br>
-<b>2.</b> Google searched for UI design and got inpired from them<br>
-<b>3.</b> Designed my UI<br>
-<b>4.</b> Prepared android project for <b>MVVM pattern</b> (made all packages and all and spd , room, view-model etc dependencies) <br>
-<b>5.</b> Coded xml of homepage and Event input dialog<br>
-<b>6.</b> Test CalenderUtils functionality using <b>JUnit4</b><br>
-<b>7.</b> Thought about <b>Class diagram</b> but here only simple one class so didn't design any<br>
-<b>8.</b> Event info data store to <b>ROOM database</b> and test if it's working<br>
-<b>8.</b> Add firebase dependencies and project add to firebase<br>
-<b>9.</b> XML of Login Register pages and Code functionality<br>
-<b>10.</b> Backup and restore from cloud firestore<br>
-<br>
-
-
-##Используемые структуры данных
+## Используемые структуры данных
 
 * **HashMap**
 * **Array**
