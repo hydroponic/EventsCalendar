@@ -37,7 +37,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="@dimen/_4sdp"
-            android:text="Learn Design Pattern"
+            android:text="Практика по Джаве"
             android:textSize="@dimen/_12sdp" />
 
     </LinearLayout>

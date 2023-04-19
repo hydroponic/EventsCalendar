@@ -52,7 +52,7 @@
                 android:paddingBottom="@dimen/_5sdp"
                 android:paddingLeft="@dimen/_8sdp"
                 android:paddingRight="@dimen/_8sdp"
-                android:text="January 2021"
+                android:text="January 2023"
                 android:textSize="@dimen/_14sdp" />
 
             <Button
@@ -152,7 +152,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Events (21-09-2021)"
+        android:text="Events (19-04-2023)"
         android:id="@+id/tv_events_date"
         android:background="@drawable/event_date_round_line_bg"
         android:textSize="@dimen/_15sdp"
