@@ -17,6 +17,7 @@
 * JUnit4 (unit testing)
 * LiveData
 * Firebase Authenthication
+* Navigation API
 * Cloud Firestore</b>
 <br/>
 
