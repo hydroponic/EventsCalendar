@@ -20,12 +20,7 @@
 * Cloud Firestore</b>
 <br/>
 
-### UI Дизайн в Figma
-------------------
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/30120066/135445079-a3ad392e-5276-4cc4-9d18-5741c3a41313.jpg" width="50%"/></p>
-
-<br><br>
+<br>
 
 ## Используемые структуры данных
 
