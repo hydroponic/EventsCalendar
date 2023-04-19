@@ -21,8 +21,6 @@
 * Cloud Firestore</b>
 <br/>
 
-<br>
-
 ## Используемые структуры данных
 
 * **HashMap**
