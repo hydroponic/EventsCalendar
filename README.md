@@ -19,7 +19,6 @@
 * Firebase Authenthication
 * Navigation API
 * Cloud Firestore</b>
-<br>
 
 ## Используемые структуры данных
 
