@@ -41,11 +41,11 @@
 
 
 <p align="center">
-  <img alt="screen1" src="https://user-images.githubusercontent.com/30120066/135463398-7284c294-9ca7-451f-904e-fc5e9df57872.png" width="30%">
+  <img alt="screen1" src="https://github.com/hydroponic/EventsCalendar/blob/main/Screenshot1.png" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="screen2" src="https://user-images.githubusercontent.com/30120066/135463443-147ab93e-db9b-4c88-bd3e-d33424664c08.png" width="30%">
+  <img alt="screen2" src="https://github.com/hydroponic/EventsCalendar/blob/main/Screenshot2.png" width="30%">
 
-  <img alt="screen3" src="https://user-images.githubusercontent.com/30120066/135463453-17af8be1-8416-4b87-86f1-6b5666ffe005.png" width="30%">
+  <img alt="screen3" src="https://github.com/hydroponic/EventsCalendar/blob/main/Screenshot3.png" width="30%">
 </p>
 
 
