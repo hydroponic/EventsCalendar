@@ -63,4 +63,18 @@
         android:foreground="?actionBarItemBackground"
         android:gravity="center"/>
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="212dp"
+        android:layout_height="wrap_content"
+        android:text="or continue without an account" />
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainerView4"
+        android:name="androidx.navigation.fragment.NavHostFragment"
+        android:layout_width="168dp"
+        android:layout_height="43dp"
+        app:defaultNavHost="true"
+        app:navGraph="@navigation/nav" />
+
 </LinearLayout>

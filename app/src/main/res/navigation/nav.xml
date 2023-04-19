@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav"
+    app:startDestination="@id/buttonFragment">
+    <fragment
+        android:id="@+id/buttonFragment"
+        android:name="com.hydroponic.event_calender.views.ui.ButtonFragment"
+        android:label="fragment_button"
+        tools:layout="@layout/fragment_button" >
+        <action
+            android:id="@+id/action_buttonFragment_to_mainActivity2"
+            app:destination="@id/mainActivity2" />
+    </fragment>
+    <activity
+        android:id="@+id/mainActivity2"
+        android:name="com.hydroponic.event_calender.views.ui.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+</navigation>
